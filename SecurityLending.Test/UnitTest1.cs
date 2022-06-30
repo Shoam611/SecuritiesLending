@@ -6,19 +6,29 @@ namespace SecurityLending.Test
 {
     public class Tests
     {
-        Mock<ICustomersService<Borrower>> mocCustService;
+         ICustomersService<Borrower> borrowerService;
+        Borrower returnedBorrower;
+        Mock<ICustomerRepository<Borrower>> mocBorrowerRepo;
 
         [SetUp]
         public void Setup()
         {
-            mocCustService = new Mock<ICustomersService<Borrower>>();
+            returnedBorrower = new Borrower {Name ="bggf", Count=200,Currency="AUD",Id=1 };
+            borrowerService = new CustomerService<Borrower>(mocBorrowerRepo.Object);
 
+            mocBorrowerRepo = new Mock<ICustomerRepository<Borrower>>();
+            
+            mocBorrowerRepo.Setup(c => c.Create(returnedBorrower))
+                                .Returns(4);
+            //BorrowerController = new BorrowersController(mocBorrowerService.Object);
         }
 
         [Test]
         public void Test1()
         {
-            Assert.Pass();
+            var res = borrowerService.CreateNewCustomer(returnedBorrower);
+
+            Assert.IsTrue(res);
         }
     }
 }
