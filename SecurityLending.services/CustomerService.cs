@@ -21,8 +21,8 @@ namespace SecurityLending.services
                 throw new Exception("InCorrect input, field: Currency");
             try
             {
-                repository.Create(newCustomer);
-                return true;
+              var res = repository.Create(newCustomer);
+                return /*res != default &&*/ res > 0;
             }
             catch { return false; }
         }
