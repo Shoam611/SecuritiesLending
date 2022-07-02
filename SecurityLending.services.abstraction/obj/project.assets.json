@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "SecurityLending.models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/SecurityLending.models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SecurityLending.models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecurityLending.models/1.0.0": {
+      "type": "project",
+      "path": "../SecurityLending.models/SecurityLending.models.csproj",
+      "msbuildProject": "../SecurityLending.models/SecurityLending.models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "SecurityLending.models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Shoham\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Shoham\\source\\GitRepo\\repos\\SecuritiesLending\\SecurityLending.services.abstraction\\SecurityLending.services.abstraction.csproj",
+      "projectName": "SecurityLending.services.abstraction",
+      "projectPath": "C:\\Users\\Shoham\\source\\GitRepo\\repos\\SecuritiesLending\\SecurityLending.services.abstraction\\SecurityLending.services.abstraction.csproj",
+      "packagesPath": "C:\\Users\\Shoham\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shoham\\source\\GitRepo\\repos\\SecuritiesLending\\SecurityLending.services.abstraction\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Shoham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Shoham\\source\\GitRepo\\repos\\SecuritiesLending\\SecurityLending.models\\SecurityLending.models.csproj": {
+              "projectPath": "C:\\Users\\Shoham\\source\\GitRepo\\repos\\SecuritiesLending\\SecurityLending.models\\SecurityLending.models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

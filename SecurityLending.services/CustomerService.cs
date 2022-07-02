@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace SecurityLending.services
 {
-    public class CustomerService<T> : ICustomersService<T>  where T : Customer
+    public class CustomerService<T> : ICustomersService<T> where T : Customer
     {
         private readonly ICustomerRepository<T> repository;
 
@@ -15,14 +15,14 @@ namespace SecurityLending.services
         public bool CreateNewCustomer(T newCustomer)
         {
             if (newCustomer.Name.Trim().Length <= 0)
-                throw new Exception("InCorrect input, field: Name");
+                throw new Exception($"InCorrect input, field: {nameof(newCustomer.Name)}");
 
             if (newCustomer.Currency.Trim().Length != 3)
-                throw new Exception("InCorrect input, field: Currency");
+                throw new Exception($"InCorrect input, field: {nameof(newCustomer.Currency)}");
             try
             {
-              var res = repository.Create(newCustomer);
-                return /*res != default &&*/ res > 0;
+                var res = repository.Create(newCustomer);
+                return res > 0;
             }
             catch { return false; }
         }
