@@ -1,0 +1,12 @@
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\bin\Debug\net5.0\SecurityLending.models.deps.json
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\bin\Debug\net5.0\SecurityLending.models.dll
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\bin\Debug\net5.0\SecurityLending.models.pdb
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\obj\Debug\net5.0\SecurityLending.models.csproj.AssemblyReference.cache
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\obj\Debug\net5.0\SecurityLending.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\obj\Debug\net5.0\SecurityLending.models.AssemblyInfoInputs.cache
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\obj\Debug\net5.0\SecurityLending.models.AssemblyInfo.cs
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\obj\Debug\net5.0\SecurityLending.models.csproj.CoreCompileInputs.cache
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\obj\Debug\net5.0\SecurityLending.models.dll
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\obj\Debug\net5.0\refint\SecurityLending.models.dll
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\obj\Debug\net5.0\SecurityLending.models.pdb
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.models\obj\Debug\net5.0\ref\SecurityLending.models.dll

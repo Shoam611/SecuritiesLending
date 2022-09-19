@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SecurityLending.services.abstraction/1.0.0": {
+        "dependencies": {
+          "SecurityLending.models": "1.0.0"
+        },
+        "runtime": {
+          "SecurityLending.services.abstraction.dll": {}
+        }
+      },
+      "SecurityLending.models/1.0.0": {
+        "runtime": {
+          "SecurityLending.models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecurityLending.services.abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SecurityLending.models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

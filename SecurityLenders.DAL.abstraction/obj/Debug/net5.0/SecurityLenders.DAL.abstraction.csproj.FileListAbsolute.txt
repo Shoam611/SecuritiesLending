@@ -1,0 +1,15 @@
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\bin\Debug\net5.0\SecurityLenders.DAL.abstraction.deps.json
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\bin\Debug\net5.0\SecurityLenders.DAL.abstraction.dll
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\bin\Debug\net5.0\SecurityLenders.DAL.abstraction.pdb
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\bin\Debug\net5.0\SecurityLending.models.dll
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\bin\Debug\net5.0\SecurityLending.models.pdb
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\obj\Debug\net5.0\SecurityLenders.DAL.abstraction.csproj.AssemblyReference.cache
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\obj\Debug\net5.0\SecurityLenders.DAL.abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\obj\Debug\net5.0\SecurityLenders.DAL.abstraction.AssemblyInfoInputs.cache
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\obj\Debug\net5.0\SecurityLenders.DAL.abstraction.AssemblyInfo.cs
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\obj\Debug\net5.0\SecurityLenders.DAL.abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\obj\Debug\net5.0\SecurityLenders.DAL.abstraction.csproj.CopyComplete
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\obj\Debug\net5.0\SecurityLenders.DAL.abstraction.dll
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\obj\Debug\net5.0\refint\SecurityLenders.DAL.abstraction.dll
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\obj\Debug\net5.0\SecurityLenders.DAL.abstraction.pdb
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLenders.DAL.abstraction\obj\Debug\net5.0\ref\SecurityLenders.DAL.abstraction.dll

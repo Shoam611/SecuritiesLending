@@ -1,0 +1,15 @@
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\bin\Release\net5.0\SecurityLending.services.abstraction.deps.json
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\bin\Release\net5.0\SecurityLending.services.abstraction.dll
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\bin\Release\net5.0\SecurityLending.services.abstraction.pdb
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\bin\Release\net5.0\SecurityLending.models.dll
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\bin\Release\net5.0\SecurityLending.models.pdb
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\obj\Release\net5.0\SecurityLending.services.abstraction.csproj.AssemblyReference.cache
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\obj\Release\net5.0\SecurityLending.services.abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\obj\Release\net5.0\SecurityLending.services.abstraction.AssemblyInfoInputs.cache
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\obj\Release\net5.0\SecurityLending.services.abstraction.AssemblyInfo.cs
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\obj\Release\net5.0\SecurityLending.services.abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\obj\Release\net5.0\SecurityLending.services.abstraction.csproj.CopyComplete
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\obj\Release\net5.0\SecurityLending.services.abstraction.dll
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\obj\Release\net5.0\refint\SecurityLending.services.abstraction.dll
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\obj\Release\net5.0\SecurityLending.services.abstraction.pdb
+C:\Users\Shoham\source\GitRepo\repos\SecuritiesLending\SecurityLending.services.abstraction\obj\Release\net5.0\ref\SecurityLending.services.abstraction.dll

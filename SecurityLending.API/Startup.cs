@@ -51,17 +51,6 @@ namespace SecurityLending.API
             services.AddTransient<ICustomersService<Borrower>, CustomerService<Borrower>>();
             services.AddTransient<ICustomersService<Lead>, CustomerService<Lead>>();
 
-
-
-
-            //services.AddTransient<ICustomerRepository<Lead>    , LeadsRepository>();
-            //services.AddTransient<ICustomerRepository<Lender>  , LendersRepository>();
-            //services.AddTransient<ICustomerRepository<Borrower>, BorrowersRepository>();
-
-            //services.AddTransient<ICustomersService<Lender>, LendersService>();
-            //services.AddTransient<ICustomersService<Borrower>, BorrowerService>();
-            //services.AddTransient<ICustomersService<Lead>, LeadsService>();
-
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -72,6 +61,7 @@ namespace SecurityLending.API
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "SecurityLending.API v1"));
             }
+            app.UseCors();
             app.UseRouting();
             app.UseAuthorization();
             app.UseEndpoints(endpoints => endpoints.MapControllers());

@@ -12,11 +12,10 @@ namespace SecurityLending.API.Controllers
     {
         private readonly ICustomersService<Borrower> service;
 
-        public BorrowersController(ICustomersService<Borrower> borrowerssService) => this.service = borrowerssService;
+        public BorrowersController(ICustomersService<Borrower> borrowerssService) => service = borrowerssService;
 
         [HttpGet("name/{name}/currency/{currency}")]
-        public IEnumerable<Borrower> Get(string name, string currency) 
-            => service.FindCustomers(name, currency);
+        public IEnumerable<Borrower> Get(string name, string currency) => service.FindCustomers(name, currency);
 
         [HttpGet("name/{name}")]
         public IEnumerable<Borrower> GetByName(string name) 
